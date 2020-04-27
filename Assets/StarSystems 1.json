@@ -1,0 +1,2731 @@
+{
+  "starSystem": [
+    {
+      "x": "80",
+      "y": "39",
+      "name": "Teutotun",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "80",
+      "y": "17",
+      "name": "Relaberp",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "80",
+      "y": "11",
+      "name": "Diib",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "80",
+      "y": "3",
+      "name": "Pauze",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "79",
+      "y": "80",
+      "name": "Nephilim",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "79",
+      "y": "65",
+      "name": "Sigrlinn",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "79",
+      "y": "2",
+      "name": "Zeupenb",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "78",
+      "y": "1",
+      "name": "Daumg",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "80",
+      "name": "Tarazed",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "79",
+      "name": "Kimsch",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "74",
+      "name": "Montezuma",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "59",
+      "name": "Amatheia",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "37",
+      "name": "Haujuus",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "24",
+      "name": "Kirn",
+      "type": "1",
+      "famid": "7234",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "77",
+      "y": "5",
+      "name": "Halt",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "76",
+      "y": "52",
+      "name": "Pipesk",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "76",
+      "y": "21",
+      "name": "Feteburon",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "76",
+      "y": "14",
+      "name": "Publaat",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "75",
+      "y": "74",
+      "name": "Soib",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "75",
+      "y": "68",
+      "name": "Bauturn",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "75",
+      "y": "56",
+      "name": "Bamb",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "75",
+      "y": "48",
+      "name": "Gatan",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "75",
+      "y": "31",
+      "name": "Biron",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "75",
+      "y": "1",
+      "name": "Vyhuar",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "74",
+      "y": "37",
+      "name": "Giauzar",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "74",
+      "y": "34",
+      "name": "Lazydevils",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "74",
+      "y": "26",
+      "name": "Coturn",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "73",
+      "y": "25",
+      "name": "Gauzs",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "72",
+      "y": "78",
+      "name": "Lemonth",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "72",
+      "y": "55",
+      "name": "Dyln",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "72",
+      "y": "44",
+      "name": "Pelopeia",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "72",
+      "y": "40",
+      "name": "Sibu",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "72",
+      "y": "2",
+      "name": "Nudes",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "71",
+      "y": "60",
+      "name": "Beruth",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "71",
+      "y": "43",
+      "name": "Numn",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "71",
+      "y": "1",
+      "name": "Shamish",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "70",
+      "y": "80",
+      "name": "Beujuturn",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "70",
+      "y": "54",
+      "name": "Zibi",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "70",
+      "y": "36",
+      "name": "Ryletun",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "70",
+      "y": "30",
+      "name": "Xoron",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "70",
+      "y": "15",
+      "name": "wack",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "70",
+      "y": "5",
+      "name": "Ponilf",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "69",
+      "y": "47",
+      "name": "Putron",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "69",
+      "y": "29",
+      "name": "Hedetet",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "68",
+      "y": "76",
+      "name": "Farbanti",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "68",
+      "y": "69",
+      "name": "Biat",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "68",
+      "y": "65",
+      "name": "Breiablikk",
+      "type": "7",
+      "famid": "7220",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "68",
+      "y": "63",
+      "name": "Sagaritis",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "68",
+      "y": "29",
+      "name": "Hipponoe",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "67",
+      "y": "78",
+      "name": "Dynt",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "67",
+      "y": "44",
+      "name": "Hahr",
+      "type": "1",
+      "famid": "7231",
+      "famname": "Verschlimmbesserung",
+      "corefamily": ""
+    },
+    {
+      "x": "67",
+      "y": "21",
+      "name": "Zusch",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "67",
+      "y": "12",
+      "name": "Siris",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "66",
+      "y": "63",
+      "name": "Dunth",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "66",
+      "y": "61",
+      "name": "Diphda",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "66",
+      "y": "52",
+      "name": "Fumd",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "66",
+      "y": "46",
+      "name": "Sewoseas",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "65",
+      "y": "29",
+      "name": "Wutl",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "65",
+      "y": "28",
+      "name": "Fehiblenth",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "65",
+      "y": "13",
+      "name": "WFS",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "65",
+      "y": "7",
+      "name": "Oib",
+      "type": "4",
+      "famid": "7233",
+      "famname": "2",
+      "corefamily": ""
+    },
+    {
+      "x": "64",
+      "y": "79",
+      "name": "Beowulf",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "64",
+      "y": "76",
+      "name": "Zizet",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "64",
+      "y": "73",
+      "name": "Berenice",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "64",
+      "y": "67",
+      "name": "Ryquaat",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "64",
+      "y": "29",
+      "name": "Dauguze",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "64",
+      "y": "18",
+      "name": "Ninhursag",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "63",
+      "y": "67",
+      "name": "Tehize",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "63",
+      "y": "29",
+      "name": "Zuhevipt",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "63",
+      "y": "14",
+      "name": "Kothar-u-Khasis",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "63",
+      "y": "12",
+      "name": "Pajenw",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "62",
+      "y": "57",
+      "name": "Asgard",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "62",
+      "y": "27",
+      "name": "Jaac",
+      "type": "6",
+      "famid": "7223",
+      "famname": "Threes Company",
+      "corefamily": ""
+    },
+    {
+      "x": "62",
+      "y": "18",
+      "name": "Sinh",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "61",
+      "y": "74",
+      "name": "Baujalus",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "61",
+      "y": "60",
+      "name": "EmpireofDirt",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "61",
+      "y": "50",
+      "name": "Gocuglatron",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "61",
+      "y": "48",
+      "name": "Polynome",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "61",
+      "y": "18",
+      "name": "Syjuas",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "61",
+      "y": "1",
+      "name": "Daron",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "60",
+      "y": "54",
+      "name": "Hosonunth",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "60",
+      "y": "38",
+      "name": "Hevifear",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "60",
+      "y": "8",
+      "name": "Beuvipe",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "59",
+      "y": "62",
+      "name": "Duhp",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "59",
+      "y": "49",
+      "name": "Nekian",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "58",
+      "y": "63",
+      "name": "Napoar",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "58",
+      "y": "58",
+      "name": "Agasaya",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "57",
+      "y": "74",
+      "name": "Cauron",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "57",
+      "y": "72",
+      "name": "Akusaa",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "57",
+      "y": "28",
+      "name": "Falus",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "57",
+      "y": "21",
+      "name": "Xiculus",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "56",
+      "y": "71",
+      "name": "Pontomedusa",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "56",
+      "y": "66",
+      "name": "Gaurion",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "56",
+      "y": "56",
+      "name": "Kyjeson",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "56",
+      "y": "8",
+      "name": "Mitene",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "55",
+      "y": "76",
+      "name": "Kygh",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "55",
+      "y": "75",
+      "name": "Hauwael",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "55",
+      "y": "67",
+      "name": "Molm",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "55",
+      "y": "49",
+      "name": "Alinga",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "55",
+      "y": "36",
+      "name": "Nabean",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "54",
+      "y": "30",
+      "name": "Westside",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "54",
+      "y": "21",
+      "name": "Wuquafitron",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "53",
+      "y": "70",
+      "name": "Anatole",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "53",
+      "y": "66",
+      "name": "Reuqx",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "53",
+      "y": "44",
+      "name": "Signy",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "53",
+      "y": "36",
+      "name": "Bivell",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "53",
+      "y": "8",
+      "name": "Hecate",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "53",
+      "y": "2",
+      "name": "Regor",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "52",
+      "y": "63",
+      "name": "Joar",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "51",
+      "y": "75",
+      "name": "Wixebuus",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "51",
+      "y": "68",
+      "name": "Bacull",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "51",
+      "y": "50",
+      "name": "Muzeel",
+      "type": "4",
+      "famid": "7227",
+      "famname": "No Beers Here",
+      "corefamily": ""
+    },
+    {
+      "x": "51",
+      "y": "42",
+      "name": "Vann",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "51",
+      "y": "41",
+      "name": "Xalk",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "50",
+      "y": "68",
+      "name": "Gitade",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "50",
+      "y": "57",
+      "name": "Muze",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "50",
+      "y": "43",
+      "name": "Wibeter",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "50",
+      "y": "41",
+      "name": "Gafuar",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "50",
+      "y": "39",
+      "name": "Gimason",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "49",
+      "y": "62",
+      "name": "Goglaze",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "49",
+      "y": "54",
+      "name": "Fymotun",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "49",
+      "y": "34",
+      "name": "Noon",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "49",
+      "y": "25",
+      "name": "Zyrf",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "49",
+      "y": "14",
+      "name": "Moel",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "48",
+      "y": "43",
+      "name": "Cicoze",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "48",
+      "y": "37",
+      "name": "Poat",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "48",
+      "y": "28",
+      "name": "Kaxilaac",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "47",
+      "y": "36",
+      "name": "Dahazerus",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "47",
+      "y": "23",
+      "name": "Zokane",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "47",
+      "y": "22",
+      "name": "Pleione",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "47",
+      "y": "20",
+      "name": "Kyl",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "47",
+      "y": "1",
+      "name": "Mysinaib",
+      "type": "7",
+      "famid": "7225",
+      "famname": "Tiger King",
+      "corefamily": ""
+    },
+    {
+      "x": "46",
+      "y": "52",
+      "name": "Debohene",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "46",
+      "y": "40",
+      "name": "Hine titama",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "46",
+      "y": "1",
+      "name": "Pur",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "45",
+      "y": "52",
+      "name": "Gynehals",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "45",
+      "y": "37",
+      "name": "Zaurn",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "45",
+      "y": "36",
+      "name": "Science",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "45",
+      "y": "10",
+      "name": "Pahoter",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "44",
+      "y": "9",
+      "name": "Kaffaljidhm",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "43",
+      "y": "52",
+      "name": "Historian",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "43",
+      "y": "50",
+      "name": "Lyrb",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "43",
+      "y": "34",
+      "name": "Wetj",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "43",
+      "y": "7",
+      "name": "Zihg",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "42",
+      "y": "77",
+      "name": "Jynj",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "42",
+      "y": "31",
+      "name": "Saiph",
+      "type": "7",
+      "famid": "7228",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "42",
+      "y": "10",
+      "name": "Halia",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "41",
+      "y": "80",
+      "name": "Iapetus",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "41",
+      "y": "78",
+      "name": "Hunb",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "41",
+      "y": "29",
+      "name": "Adad",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "40",
+      "y": "44",
+      "name": "Jotuns",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "40",
+      "y": "32",
+      "name": "Peseor",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "40",
+      "y": "14",
+      "name": "Kuma",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "38",
+      "y": "64",
+      "name": "Lizon",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "38",
+      "y": "52",
+      "name": "Muwonth",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "38",
+      "y": "11",
+      "name": "Qulealf",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "37",
+      "y": "80",
+      "name": "Rumhater",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "37",
+      "y": "48",
+      "name": "Cotys",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "37",
+      "y": "47",
+      "name": "Hercules",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "37",
+      "y": "33",
+      "name": "Heib",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "37",
+      "y": "12",
+      "name": "Savel",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "37",
+      "y": "7",
+      "name": "Syjablept",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "36",
+      "y": "51",
+      "name": "Gonn",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "36",
+      "y": "48",
+      "name": "Hyguze",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "36",
+      "y": "19",
+      "name": "Riweson",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "36",
+      "y": "18",
+      "name": "Quanx",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "36",
+      "y": "10",
+      "name": "Sindur",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "35",
+      "y": "70",
+      "name": "Terpsichore",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "35",
+      "y": "49",
+      "name": "Fulsch",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "35",
+      "y": "33",
+      "name": "Vupialf",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "35",
+      "y": "19",
+      "name": "Qupe",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "34",
+      "y": "70",
+      "name": "Deneb",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "34",
+      "y": "20",
+      "name": "Alioth",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "34",
+      "y": "3",
+      "name": "Dahexiron",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "33",
+      "y": "80",
+      "name": "Somnus",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "33",
+      "y": "46",
+      "name": "Leull",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "32",
+      "y": "67",
+      "name": "Gaupevater",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "32",
+      "y": "35",
+      "name": "Sohape",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "32",
+      "y": "17",
+      "name": "Nupn",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "32",
+      "y": "4",
+      "name": "Kornephoros",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "31",
+      "y": "64",
+      "name": "Sorbent",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "31",
+      "y": "26",
+      "name": "Aja",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "31",
+      "y": "25",
+      "name": "Ahemait",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "31",
+      "y": "15",
+      "name": "Ariki",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "31",
+      "y": "11",
+      "name": "Beuar",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "31",
+      "y": "1",
+      "name": "Zilarus",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "30",
+      "y": "78",
+      "name": "Zeuven",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "30",
+      "y": "53",
+      "name": "Qusude",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "30",
+      "y": "14",
+      "name": "Habualf",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "29",
+      "y": "77",
+      "name": "Rauni",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "29",
+      "y": "75",
+      "name": "Relic",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "29",
+      "y": "62",
+      "name": "Neon",
+      "type": "7",
+      "famid": "7222",
+      "famname": "The Pack",
+      "corefamily": ""
+    },
+    {
+      "x": "29",
+      "y": "31",
+      "name": "Jepifian",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "29",
+      "y": "25",
+      "name": "Candace",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "29",
+      "y": "17",
+      "name": "Sybap",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "76",
+      "name": "Dapades",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "69",
+      "name": "Merodach",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "57",
+      "name": "Cyloak",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "43",
+      "name": "Hahsch",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "26",
+      "name": "Gyel",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "20",
+      "name": "Dike",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "28",
+      "y": "13",
+      "name": "Aesir",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "27",
+      "y": "73",
+      "name": "Myac",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "27",
+      "y": "59",
+      "name": "Quacuter",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "27",
+      "y": "55",
+      "name": "Xihuwh",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "27",
+      "y": "37",
+      "name": "Tellus",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "26",
+      "y": "53",
+      "name": "Quawr",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "26",
+      "y": "49",
+      "name": "Gexulean",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "26",
+      "y": "20",
+      "name": "Tatern",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "70",
+      "name": "Weduxean",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "69",
+      "name": "Peun",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "58",
+      "name": "Litern",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "54",
+      "name": "Al-Lat",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "47",
+      "name": "Dasemm",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "38",
+      "name": "Section",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "25",
+      "y": "26",
+      "name": "Rastaban",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "24",
+      "y": "43",
+      "name": "Markab",
+      "type": "4",
+      "famid": "7229",
+      "famname": "IlikeCAKE",
+      "corefamily": ""
+    },
+    {
+      "x": "24",
+      "y": "23",
+      "name": "Alecto",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "24",
+      "y": "13",
+      "name": "Tygerp",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "24",
+      "y": "12",
+      "name": "Fep",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "24",
+      "y": "1",
+      "name": "Wune",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "77",
+      "name": "Acamar",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "70",
+      "name": "Bull",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "49",
+      "name": "Lylovehs",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "21",
+      "name": "Omithyis",
+      "type": "1",
+      "famid": "7221",
+      "famname": "Ugh...",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "17",
+      "name": "Kine",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "16",
+      "name": "Mothir",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "14",
+      "name": "Her-sha-s",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "23",
+      "y": "1",
+      "name": "Nilus",
+      "type": "2",
+      "famid": "7230",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "22",
+      "y": "74",
+      "name": "Rauter",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "22",
+      "y": "50",
+      "name": "Coar",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "22",
+      "y": "30",
+      "name": "Bubastis",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "22",
+      "y": "20",
+      "name": "Paune",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "21",
+      "y": "70",
+      "name": "Quel",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "21",
+      "y": "57",
+      "name": "Peuter",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "21",
+      "y": "32",
+      "name": "Tuvahuqx",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "21",
+      "y": "27",
+      "name": "Syturn",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "20",
+      "y": "68",
+      "name": "Peor",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "20",
+      "y": "62",
+      "name": "Itern",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "20",
+      "y": "37",
+      "name": "Oxous",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "19",
+      "y": "62",
+      "name": "Rane",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "19",
+      "y": "57",
+      "name": "Ceres",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "19",
+      "y": "56",
+      "name": "Lean",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "18",
+      "y": "78",
+      "name": "Hetern",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "18",
+      "y": "77",
+      "name": "Cassios",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "18",
+      "y": "55",
+      "name": "Pojoquaak",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "18",
+      "y": "48",
+      "name": "Xonn",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "18",
+      "y": "36",
+      "name": "Koac",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "17",
+      "y": "29",
+      "name": "I_like_Pie",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "17",
+      "y": "14",
+      "name": "Navi",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "17",
+      "y": "2",
+      "name": "Lyhn",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "16",
+      "y": "62",
+      "name": "Jacone",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "16",
+      "y": "51",
+      "name": "Vudorb",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "16",
+      "y": "31",
+      "name": "Boqu",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "15",
+      "y": "45",
+      "name": "Xenn",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "15",
+      "y": "12",
+      "name": "Hyxonus",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "14",
+      "y": "67",
+      "name": "Xanus",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "14",
+      "y": "66",
+      "name": "Moac",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "14",
+      "y": "63",
+      "name": "Zatavu",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "14",
+      "y": "37",
+      "name": "Wuzet",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "14",
+      "y": "12",
+      "name": "Chemosh",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "14",
+      "y": "1",
+      "name": "Nosith",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "13",
+      "y": "26",
+      "name": "Deulb",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "13",
+      "y": "17",
+      "name": "Fiak",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "13",
+      "y": "15",
+      "name": "Zath",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "67",
+      "name": "Vowonth",
+      "type": "7",
+      "famid": "7232",
+      "famname": "Supernova",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "51",
+      "name": "Bean",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "47",
+      "name": "Sezokatan",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "42",
+      "name": "Xion",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "38",
+      "name": "Julunggul",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "32",
+      "name": "Zedes",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "23",
+      "name": "Patron",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "12",
+      "y": "6",
+      "name": "Regulus",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "11",
+      "y": "54",
+      "name": "Lokupe",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "11",
+      "y": "12",
+      "name": "Potern",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "11",
+      "y": "4",
+      "name": "Amon",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "10",
+      "y": "76",
+      "name": "Nilunth",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "10",
+      "y": "57",
+      "name": "Gauwofeor",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "10",
+      "y": "8",
+      "name": "Wisahsch",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "9",
+      "y": "6",
+      "name": "Vabinus",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "8",
+      "y": "79",
+      "name": "TheConfusedOne",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "8",
+      "y": "73",
+      "name": "Reusd",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "8",
+      "y": "30",
+      "name": "Riroar",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "8",
+      "y": "20",
+      "name": "Fi",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "8",
+      "y": "16",
+      "name": "Nuxl",
+      "type": "2",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "7",
+      "y": "75",
+      "name": "Kalma",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "7",
+      "y": "57",
+      "name": "Cymo",
+      "type": "5",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "7",
+      "y": "31",
+      "name": "Fomhatan",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "6",
+      "y": "41",
+      "name": "Nulotron",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "6",
+      "y": "19",
+      "name": "Wotron",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "6",
+      "y": "17",
+      "name": "Gaus",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "5",
+      "y": "68",
+      "name": "Doto",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "5",
+      "y": "44",
+      "name": "Kaitain",
+      "type": "8",
+      "famid": "7224",
+      "famname": "Fatty",
+      "corefamily": ""
+    },
+    {
+      "x": "5",
+      "y": "35",
+      "name": "Hagaac",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "5",
+      "y": "8",
+      "name": "Xuzet",
+      "type": "1",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "4",
+      "y": "57",
+      "name": "Fegekitan",
+      "type": "7",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "4",
+      "y": "36",
+      "name": "Mimir",
+      "type": "8",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "3",
+      "y": "57",
+      "name": "Syeknom",
+      "type": "4",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "3",
+      "y": "48",
+      "name": "Fish",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "2",
+      "y": "78",
+      "name": "Pius",
+      "type": "9",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "2",
+      "y": "60",
+      "name": "Triopas",
+      "type": "3",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "2",
+      "y": "12",
+      "name": "Moht",
+      "type": "6",
+      "famid": "",
+      "famname": "",
+      "corefamily": ""
+    },
+    {
+      "x": "2",
+      "y": "7",
+      "name": "Quagupe",
+      "type": "6",
+      "famid": "7226",
+      "famname": "Big Bada Boom Boom",
+      "corefamily": ""
+    }
+  ]
+}
